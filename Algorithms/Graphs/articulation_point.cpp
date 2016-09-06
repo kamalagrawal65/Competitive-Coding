@@ -1,3 +1,6 @@
+//Low represents the earliest of the time a vertex can be visited.. 
+//Hence its parent's discovery time should be greater than its own low time.
+//Because its says there is some other path if it happens so.
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
