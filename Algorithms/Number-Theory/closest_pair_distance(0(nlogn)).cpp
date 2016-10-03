@@ -1,7 +1,4 @@
-#include <iostream>
-#include <float.h>
-#include <stdlib.h>
-#include <math.h>
+#include<bits/stdc++.h>
 using namespace std;
 struct Point{
     int x, y;
