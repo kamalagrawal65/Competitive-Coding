@@ -42,7 +42,7 @@ class minheap{
 		}
 		void heapify(int i){
 			int smallest=i;
-			if(left(i)<size && harr[left(i)]<harr[parent(i)])
+			if(left(i)<size && harr[left(i)]<harr[i])
 				smallest=left(i);
 			if(right(i)<size && harr[right(i)]<harr[smallest])
 				smallest=right(i);
