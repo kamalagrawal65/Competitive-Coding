@@ -1,3 +1,5 @@
+//If the edge joining the vertices are in the same set then there is cycle.
+
 #include<bits/stdc++.h>
 using namespace std;
 vector<int> graph[100];
