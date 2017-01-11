@@ -1,4 +1,4 @@
-//v-1 times as each edge can be at max connected to other v-1 edges.
+//v-1 times as each edge can be at max connected to other v-1 edges. It is beacuse we can calculate the distance in any random order so we use v-1 times.
 
 #include<bits/stdc++.h>
 using namespace std;
