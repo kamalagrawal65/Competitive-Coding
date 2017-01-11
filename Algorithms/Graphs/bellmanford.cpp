@@ -1,3 +1,5 @@
+//v-1 times as each edge can be at max connected to other v-1 edges.
+
 #include<bits/stdc++.h>
 using namespace std;
 #define pb push_back
